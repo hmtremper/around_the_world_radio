@@ -1,7 +1,7 @@
 import numpy as np
 from rtlsdr import RtlSdr
 import matplotlib.pyplot as plt
-import time  # Import time module
+import time 
 
 # Configuration
 center_freq = 14.074e6  # Center frequency in Hz
